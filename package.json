@@ -1,0 +1,28 @@
+{
+  "name": "zk3-api",
+  "version": "1.0.0",
+  "description": "zk3-api",
+  "main": "index.js",
+  "bin": {
+    "zk3-api": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouzhen1999/zk3-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouzhen1999/zk3-api/issues"
+  },
+  "homepage": "https://github.com/zhouzhen1999/zk3-api#readme",
+  "devDependencies": {
+    "body-parse": "^0.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
